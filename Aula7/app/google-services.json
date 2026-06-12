@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635698977977",
+    "project_id": "provaquiz",
+    "storage_bucket": "provaquiz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635698977977:android:0a1c876037194b1f608f68",
+        "android_client_info": {
+          "package_name": "com.proflucas.aula7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD3X690cwGLv8rn6FO1VgmSCuo5yMo7sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
